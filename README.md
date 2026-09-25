@@ -24,8 +24,8 @@ Figma
 1.Destination ratings and reviews
 2. Booking confirmation and ticket
 3. Simple and easy navigation
-# Design Highlights
 
+# Design Highlights
 1.Attractive purple and pink colour theme
 2.Clean and simple mobile interface
 3.Clear buttons and icons
@@ -39,6 +39,11 @@ Figma
 # Figma link
 https://www.figma.com/design/iskECUiIwY00i5BwfHXLOP/Untitled?node-id=11-2&t=nBFP7Cyux6GmkSRm-1
 
+### Developed By
+B.Petchi Priya
+
+### License
+This project is created for educational purpose only
 
 
 
