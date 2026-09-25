@@ -20,6 +20,28 @@ The Travel App is a user-friendly mobile application designed to help users expl
 # Tools used
 Figma
 
+# Screens
+1.Home 
+2.Search
+3.Destination
+4.Confirmation
+
+# Screensshots
+1.Home
+<img width="150" height="300" alt="Home (1)" src="https://github.com/user-attachments/assets/74287076-59e1-4279-9809-8f4df7a4be3e" />
+
+2.Search
+<img width="150" height="300" alt="Search (1)" src="https://github.com/user-attachments/assets/ec38abdf-87fd-465e-8baa-f26913d3d7fb" />
+
+3.Destination
+<img width="150" height="300" alt="Destination" src="https://github.com/user-attachments/assets/94d38ab6-f32a-480d-9686-bf230328438e" />
+
+4.Confirmation
+<img width="150" height="300" alt="Confirmation" src="https://github.com/user-attachments/assets/d6550ab4-3c48-4eba-8048-689161118387" />
+
+# Figma prototype link
+https://www.figma.com/design/iskECUiIwY00i5BwfHXLOP/TRAVAL-APP?node-id=11-32&t=dKTZIM7ccZ4ImTbm-1
+
 # Bus booking
 1.Destination ratings and reviews
 2. Booking confirmation and ticket
